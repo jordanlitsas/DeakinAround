@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DeakinAround</string>
+    <string name="user_login_title">Login to\nDeakinAround</string>
+    <string name="user_registration_title">Register for\nDeakinAround</string>
+    <string name="password_recovery_title">Password Recovery</string>
+    <string name="email_input">Deakin email address</string>
+    <string name="six_digit_code_input">Enter your 6 digit code</string>
+    <string name="send_code_btn">Send code</string>
+    <string name="change_password_title">Choose a new\npassword</string>
+    <string name="password_input">Password</string>
+    <string name="password_confirmation_input">Confirm password</string>
+    <string name="reset_password_btn">Reset password</string>
+</resources>
